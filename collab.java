@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class collab {
 	public static void main(String[] args) {
 		System.out.println("Hello Every1");
@@ -5,4 +6,15 @@ public class collab {
 System.out.println("Hello this is pANKAJ");
 System.out.println("hi i am alekhya");
 }
+=======
+public class collab {
+	public static void main(String[] args) {
+		System.out.println("Hello Every1");
+} 		System.out.println("Hello this is praveen");
+System.out.println("Hello this is pANKAJ");
+System.out.println("Hello this is pANKAJ2");
+System.out.println("Hello this is chandini");
+
+
+>>>>>>> defc8a0e818af66338a9b96bbc9a6dd036ace3e9
 }
